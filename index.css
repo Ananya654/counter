@@ -1,0 +1,52 @@
+
+body{
+    background-image: url(" mala.webp");
+    background-size: cover;
+    background-size:100%;
+    font-family:  'Segoe UI', Roboto;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+.container{
+    background: rgba(255, 255, 255, 0.41);
+    max-width: 50%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h1{
+    margin-top: flex;
+    margin-bottom: 10px;
+    color: rgba(0, 4, 4, 0.845);
+    
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: rgb(20, 25, 25);
+}
+
+button{
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(35, 35, 51);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#Increment-btn{
+    background: salmon
+}
+
+#save-btn{
+    background: rgb(91, 197, 181)
+    
+}
