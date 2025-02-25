@@ -1,7 +1,7 @@
 
 body{
     background-image: url(" mala.webp");
-    background-repeat: no-repeat;
+    background-repeat: round;
     background-size: contain;
     font-family:  'Segoe UI', Roboto;
     font-weight: bold;
